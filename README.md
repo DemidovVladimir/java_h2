@@ -1,5 +1,6 @@
-This repository is for an example application built in my Spring Framework 5 - Beginner to Guru
+###This app is using Maven, Spring Boot, Hibernate, Tomcat and H2 DB.
 
-The application is a simple Spring Boot 2 / Spring Framework 5 web application.
+To start the app please at first install maven
 
-You can learn about my Spring Framework 5 Online course [here.](https://go.springframework.guru/spring-framework-5-online-course)
+##Then you can run from app root directory:
+./mvnw spring-boot:run
